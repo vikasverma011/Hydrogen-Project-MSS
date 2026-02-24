@@ -1,14 +1,19 @@
+import {useState} from 'react';
 import type {Route} from './+types/collections.all';
-import {
-  useLoaderData,
-} from 'react-router';
-import {getPaginationVariables, Image, Money} from '@shopify/hydrogen';
+import {useLoaderData} from 'react-router';
+import {getPaginationVariables, Analytics} from '@shopify/hydrogen';
 import {PaginatedResourceSection} from '~/components/PaginatedResourceSection';
-import {ProductItem} from '~/components/ProductItem';
 import type {CollectionItemFragment} from 'storefrontapi.generated';
+import {
+  ProductCard,
+  FilterSidebar,
+  SortBar,
+  Breadcrumb,
+  BackToTop,
+} from '~/components/plp';
 
 export const meta: Route.MetaFunction = () => {
-  return [{title: `Hydrogen | Products`}];
+  return [{title: `All Products | Mechanic Superstore`}];
 };
 
 export async function loader(args: Route.LoaderArgs) {
@@ -28,14 +33,13 @@ export async function loader(args: Route.LoaderArgs) {
 async function loadCriticalData({context, request}: Route.LoaderArgs) {
   const {storefront} = context;
   const paginationVariables = getPaginationVariables(request, {
-    pageBy: 8,
+    pageBy: 20,
   });
 
   const [{products}] = await Promise.all([
     storefront.query(CATALOG_QUERY, {
       variables: {...paginationVariables},
     }),
-    // Add other queries here, so that they are loaded in parallel
   ]);
   return {products};
 }
@@ -49,24 +53,121 @@ function loadDeferredData({context}: Route.LoaderArgs) {
   return {};
 }
 
-export default function Collection() {
+export default function AllProducts() {
   const {products} = useLoaderData<typeof loader>();
 
+  const [viewMode, setViewMode] = useState<'grid' | 'list'>('grid');
+  const [sortBy, setSortBy] = useState<'featured' | 'price-asc' | 'price-desc' | 'title-asc' | 'title-desc' | 'newest'>('featured');
+  const [compareEnabled, setCompareEnabled] = useState(false);
+  const [compareProducts, setCompareProducts] = useState<string[]>([]);
+  const [filters, setFilters] = useState({
+    liftingCapacity: [],
+    driveThruWidth: [],
+    widthBetweenColumns: [],
+    maxRiseClearance: [],
+    liftingHeight: [],
+    minHeight: [],
+    brand: [],
+    overallHeight: [],
+  });
+
+  const handleFilterChange = (filterType: string, values: string[]) => {
+    setFilters((prev) => ({...prev, [filterType]: values}));
+  };
+
+  const handleCompareToggle = (productId: string) => {
+    setCompareProducts((prev) =>
+      prev.includes(productId)
+        ? prev.filter((id) => id !== productId)
+        : prev.length < 4
+          ? [...prev, productId]
+          : prev
+    );
+  };
+
+  const totalProducts = products.nodes.length;
+
   return (
-    <div className="collection">
-      <h1>Products</h1>
-      <PaginatedResourceSection<CollectionItemFragment>
-        connection={products}
-        resourcesClassName="products-grid"
-      >
-        {({node: product, index}) => (
-          <ProductItem
-            key={product.id}
-            product={product}
-            loading={index < 8 ? 'eager' : undefined}
-          />
-        )}
-      </PaginatedResourceSection>
+    <div className="font-bricolage">
+      {/* Container */}
+      <div className="max-w-[1296px] mx-auto px-4 lg:px-[72px]">
+        {/* Breadcrumb */}
+        <Breadcrumb
+          items={[
+            {label: 'Home', href: '/'},
+            {label: 'All Products'},
+          ]}
+        />
+
+        {/* Title */}
+        <div className="mb-8">
+          <h1 className="text-2xl font-semibold font-rajdhani text-black mb-3">
+            All Products
+          </h1>
+          <p className="text-base font-normal font-bricolage text-[#5A5A5A]">
+            Browse our complete catalog of automotive equipment and tools.
+          </p>
+        </div>
+
+        {/* Main Content */}
+        <div className="flex gap-5">
+          {/* Filter Sidebar - Desktop */}
+          <div className="hidden lg:block">
+            <FilterSidebar
+              filters={filters}
+              onFilterChange={handleFilterChange}
+            />
+          </div>
+
+          {/* Products Section */}
+          <div className="flex-1">
+            {/* Sort Bar */}
+            <SortBar
+              totalResults={totalProducts}
+              viewMode={viewMode}
+              onViewModeChange={setViewMode}
+              sortBy={sortBy}
+              onSortChange={setSortBy}
+              compareEnabled={compareEnabled}
+              onCompareToggle={setCompareEnabled}
+            />
+
+            {/* Products Grid */}
+            <PaginatedResourceSection<CollectionItemFragment>
+              connection={products}
+              resourcesClassName={
+                viewMode === 'grid'
+                  ? 'grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 py-6'
+                  : 'flex flex-col gap-4 py-6'
+              }
+            >
+              {({node: product, index}) => (
+                <ProductCard
+                  key={product.id}
+                  product={product}
+                  showCompare={compareEnabled}
+                  isCompareSelected={compareProducts.includes(product.id)}
+                  onCompareToggle={handleCompareToggle}
+                />
+              )}
+            </PaginatedResourceSection>
+
+            {/* Back to Top */}
+            <div className="flex justify-end py-4">
+              <BackToTop />
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <Analytics.CollectionView
+        data={{
+          collection: {
+            id: 'all-products',
+            handle: 'all',
+          },
+        }}
+      />
     </div>
   );
 }
@@ -80,6 +181,7 @@ const COLLECTION_ITEM_FRAGMENT = `#graphql
     id
     handle
     title
+    vendor
     featuredImage {
       id
       altText
@@ -88,6 +190,14 @@ const COLLECTION_ITEM_FRAGMENT = `#graphql
       height
     }
     priceRange {
+      minVariantPrice {
+        ...MoneyCollectionItem
+      }
+      maxVariantPrice {
+        ...MoneyCollectionItem
+      }
+    }
+    compareAtPriceRange {
       minVariantPrice {
         ...MoneyCollectionItem
       }

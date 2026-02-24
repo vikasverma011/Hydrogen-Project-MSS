@@ -1,11 +1,30 @@
+@import "tailwindcss";
+
 :root {
   --aside-width: 400px;
   --cart-aside-summary-height-with-discount: 300px;
   --cart-aside-summary-height: 250px;
   --grid-item-width: 355px;
-  --header-height: 64px;
-  --color-dark: #000;
+  --header-height: 148px;
+  --color-dark: #1A1A1A;
   --color-light: #fff;
+  
+  /* MSS Design Tokens */
+  --color-primary: #C42424;
+  --color-primary-dark: #B80B0B;
+  --color-accent: #FFBF00;
+  --color-accent-gold: #D9AF36;
+  --color-star: #FFC419;
+  --color-dark-secondary: #2A2A2A;
+  --color-dark-border: #3A3A3A;
+  --color-gray: #5A5A5A;
+  --color-gray-light: #8A8A8A;
+  --color-gray-border: #CACACA;
+  --color-bg-card: #F7F7F7;
+  
+  /* Typography */
+  --font-rajdhani: 'Rajdhani', sans-serif;
+  --font-bricolage: 'Bricolage Grotesque', sans-serif;
 }
 
 img {

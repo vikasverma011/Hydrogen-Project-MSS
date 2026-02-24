@@ -1,0 +1,650 @@
+<div style="width: 100%; height: 100%; position: relative; background: white; overflow: hidden">
+    <div style="width: 1296px; height: 2177px; left: 72px; top: 257px; position: absolute">
+        <div style="width: 1014px; height: 1919px; left: 282px; top: 258px; position: absolute">
+            <div style="width: 1014px; height: 1px; left: 0px; top: 1858px; position: absolute; background: #CACACA"></div>
+            <div style="width: 1014px; height: 1px; left: 0px; top: 1918px; position: absolute; background: #CACACA"></div>
+            <div style="width: 241px; height: 241px; left: 0px; top: 0px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 771px; top: 0px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 257px; top: 0px; position: absolute; background: #F7F7F7"></div>
+            <img style="width: 162px; height: 162px; left: 40px; top: 40px; position: absolute" src="https://placehold.co/162x162" />
+            <img style="width: 162px; height: 162px; left: 811px; top: 40px; position: absolute" src="https://placehold.co/162x162" />
+            <img style="width: 162px; height: 147px; left: 297px; top: 47px; position: absolute" src="https://placehold.co/162x147" />
+            <div style="width: 241px; height: 241px; left: 514px; top: 0px; position: absolute; background: #F7F7F7"></div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 526px; top: 205px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div data-property-1="Default" style="width: 214px; height: 32px; left: 541px; top: 201px; position: absolute">
+                <div style="width: 2px; height: 17px; left: 188px; top: 7px; position: absolute; opacity: 0; overflow: hidden">
+                    <div style="left: -150px; top: 0px; position: absolute; color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Available for Financing!</div>
+                </div>
+                <div style="width: 24px; height: 24px; left: 178px; top: 4px; position: absolute; background: white; border-radius: 50px"></div>
+            </div>
+            <img style="width: 165px; height: 143px; left: 552px; top: 49px; position: absolute" src="https://placehold.co/165x143" />
+            <div style="left: 0px; top: 253px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">BENDPAK</div>
+            <div style="left: 771px; top: 253px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">BENDPAK</div>
+            <div style="left: 0px; top: 278px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">10AP Two-Post Lift</div>
+            <div style="left: 771px; top: 278px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">10AP Two-Post Lift</div>
+            <div style="left: 0px; top: 328px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 771px; top: 328px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 68px; top: 328px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 839px; top: 328px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 257px; top: 253px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">AMGO</div>
+            <div style="left: 514px; top: 253px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">CHALLENGER LIFTS</div>
+            <div style="left: 257px; top: 278px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">BP-9 9,000 lb 2 Post Lift</div>
+            <div style="left: 257px; top: 328px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="width: 241px; left: 514px; top: 278px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Lifts CLFP9 9000 lbs 2 Post Lift / Open-Top...</div>
+            <div style="left: 325px; top: 328px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 514px; top: 328px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 582px; top: 328px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; left: 12px; top: 12px; position: absolute; background: #C42424; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: white; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Sale</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 12px; top: 205px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 269px; top: 205px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 783px; top: 205px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; left: 526px; top: 12px; position: absolute; background: #C42424; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: white; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Sale</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; left: 585px; top: 12px; position: absolute; background: white; outline: 1px black solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Free Shipping</div>
+            </div>
+            <div style="width: 241px; height: 241px; left: 0px; top: 370px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 0px; top: 740px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 0px; top: 1110px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 0px; top: 1480px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 771px; top: 370px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 771px; top: 740px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 771px; top: 1110px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 771px; top: 1480px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 257px; top: 370px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 257px; top: 740px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 257px; top: 1110px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 257px; top: 1480px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 514px; top: 370px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 514px; top: 740px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 514px; top: 1110px; position: absolute; background: #F7F7F7"></div>
+            <div style="width: 241px; height: 241px; left: 514px; top: 1480px; position: absolute; background: #F7F7F7"></div>
+            <img style="width: 162px; height: 162px; left: 40px; top: 410px; position: absolute" src="https://placehold.co/162x162" />
+            <img style="width: 162px; height: 162px; left: 40px; top: 780px; position: absolute" src="https://placehold.co/162x162" />
+            <img style="width: 162px; height: 162px; left: 40px; top: 1150px; position: absolute" src="https://placehold.co/162x162" />
+            <img style="width: 162px; height: 162px; left: 40px; top: 1520px; position: absolute" src="https://placehold.co/162x162" />
+            <img style="width: 162px; height: 162px; left: 811px; top: 410px; position: absolute" src="https://placehold.co/162x162" />
+            <img style="width: 162px; height: 162px; left: 811px; top: 780px; position: absolute" src="https://placehold.co/162x162" />
+            <img style="width: 162px; height: 162px; left: 811px; top: 1150px; position: absolute" src="https://placehold.co/162x162" />
+            <img style="width: 162px; height: 162px; left: 811px; top: 1520px; position: absolute" src="https://placehold.co/162x162" />
+            <img style="width: 162px; height: 147px; left: 297px; top: 417px; position: absolute" src="https://placehold.co/162x147" />
+            <img style="width: 162px; height: 147px; left: 297px; top: 787px; position: absolute" src="https://placehold.co/162x147" />
+            <img style="width: 162px; height: 147px; left: 297px; top: 1157px; position: absolute" src="https://placehold.co/162x147" />
+            <img style="width: 162px; height: 147px; left: 297px; top: 1527px; position: absolute" src="https://placehold.co/162x147" />
+            <img style="width: 165px; height: 143px; left: 552px; top: 419px; position: absolute" src="https://placehold.co/165x143" />
+            <img style="width: 165px; height: 143px; left: 552px; top: 789px; position: absolute" src="https://placehold.co/165x143" />
+            <img style="width: 165px; height: 143px; left: 552px; top: 1159px; position: absolute" src="https://placehold.co/165x143" />
+            <img style="width: 165px; height: 143px; left: 552px; top: 1529px; position: absolute" src="https://placehold.co/165x143" />
+            <div style="left: 0px; top: 623px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">BENDPAK</div>
+            <div style="left: 0px; top: 993px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">BENDPAK</div>
+            <div style="left: 0px; top: 1363px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">BENDPAK</div>
+            <div style="left: 0px; top: 1733px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">BENDPAK</div>
+            <div style="left: 771px; top: 623px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">BENDPAK</div>
+            <div style="left: 771px; top: 993px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">BENDPAK</div>
+            <div style="left: 771px; top: 1363px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">BENDPAK</div>
+            <div style="left: 771px; top: 1733px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">BENDPAK</div>
+            <div style="left: 0px; top: 648px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">10AP Two-Post Lift</div>
+            <div style="left: 0px; top: 1018px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">10AP Two-Post Lift</div>
+            <div style="left: 0px; top: 1388px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">10AP Two-Post Lift</div>
+            <div style="left: 0px; top: 1758px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">10AP Two-Post Lift</div>
+            <div style="left: 771px; top: 648px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">10AP Two-Post Lift</div>
+            <div style="left: 771px; top: 1018px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">10AP Two-Post Lift</div>
+            <div style="left: 771px; top: 1388px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">10AP Two-Post Lift</div>
+            <div style="left: 771px; top: 1758px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">10AP Two-Post Lift</div>
+            <div style="left: 0px; top: 698px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 0px; top: 1068px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 0px; top: 1438px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 0px; top: 1808px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 771px; top: 698px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 771px; top: 1068px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 771px; top: 1438px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 771px; top: 1808px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 68px; top: 698px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 68px; top: 1068px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 68px; top: 1438px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 68px; top: 1808px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 839px; top: 698px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 839px; top: 1068px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 839px; top: 1438px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 839px; top: 1808px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 257px; top: 623px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">AMGO</div>
+            <div style="left: 257px; top: 993px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">AMGO</div>
+            <div style="left: 257px; top: 1363px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">AMGO</div>
+            <div style="left: 257px; top: 1733px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">AMGO</div>
+            <div style="left: 514px; top: 623px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">CHALLENGER LIFTS</div>
+            <div style="left: 514px; top: 993px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">CHALLENGER LIFTS</div>
+            <div style="left: 514px; top: 1363px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">CHALLENGER LIFTS</div>
+            <div style="left: 514px; top: 1733px; position: absolute; color: #C42424; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">CHALLENGER LIFTS</div>
+            <div style="left: 257px; top: 648px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">BP-9 9,000 lb 2 Post Lift</div>
+            <div style="left: 257px; top: 1018px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">BP-9 9,000 lb 2 Post Lift</div>
+            <div style="left: 257px; top: 1388px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">BP-9 9,000 lb 2 Post Lift</div>
+            <div style="left: 257px; top: 1758px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">BP-9 9,000 lb 2 Post Lift</div>
+            <div style="left: 257px; top: 698px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 257px; top: 1068px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 257px; top: 1438px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 257px; top: 1808px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="width: 241px; left: 514px; top: 648px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Lifts CLFP9 9000 lbs 2 Post Lift / Open-Top...</div>
+            <div style="width: 241px; left: 514px; top: 1018px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Lifts CLFP9 9000 lbs 2 Post Lift / Open-Top...</div>
+            <div style="width: 241px; left: 514px; top: 1388px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Lifts CLFP9 9000 lbs 2 Post Lift / Open-Top...</div>
+            <div style="width: 241px; left: 514px; top: 1758px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Lifts CLFP9 9000 lbs 2 Post Lift / Open-Top...</div>
+            <div style="left: 325px; top: 698px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 325px; top: 1068px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 325px; top: 1438px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 325px; top: 1808px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 514px; top: 698px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 514px; top: 1068px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 514px; top: 1438px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 514px; top: 1808px; position: absolute; color: black; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 600; word-wrap: break-word">$5,205</div>
+            <div style="left: 582px; top: 698px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 582px; top: 1068px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 582px; top: 1438px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="left: 582px; top: 1808px; position: absolute; color: #8A8A8A; font-size: 18px; font-family: Bricolage Grotesque; font-weight: 300; text-decoration: line-through; word-wrap: break-word">$6,205</div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; left: 12px; top: 382px; position: absolute; background: #C42424; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: white; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Sale</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; left: 12px; top: 752px; position: absolute; background: #C42424; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: white; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Sale</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; left: 12px; top: 1122px; position: absolute; background: #C42424; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: white; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Sale</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; left: 12px; top: 1492px; position: absolute; background: #C42424; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: white; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Sale</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 12px; top: 575px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 12px; top: 945px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 12px; top: 1315px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 12px; top: 1685px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 269px; top: 575px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 269px; top: 945px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 269px; top: 1315px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 269px; top: 1685px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 526px; top: 575px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 526px; top: 945px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 526px; top: 1315px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 526px; top: 1685px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 783px; top: 575px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 783px; top: 945px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 783px; top: 1315px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; left: 783px; top: 1685px; position: absolute; background: white; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+                <div style="justify-content: flex-start; align-items: center; display: flex">
+                    <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4.3</div>
+                    <div style="width: 18px; height: 18px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                        <div style="width: 10px; height: 10px; background: #FFC419"></div>
+                    </div>
+                </div>
+                <div style="color: #8A8A8A; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">(283)</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; left: 526px; top: 382px; position: absolute; background: #C42424; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: white; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Sale</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; left: 526px; top: 752px; position: absolute; background: #C42424; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: white; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Sale</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; left: 526px; top: 1122px; position: absolute; background: #C42424; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: white; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Sale</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; left: 526px; top: 1492px; position: absolute; background: #C42424; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: white; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Sale</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; left: 585px; top: 382px; position: absolute; background: white; outline: 1px black solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Free Shipping</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; left: 585px; top: 752px; position: absolute; background: white; outline: 1px black solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Free Shipping</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; left: 585px; top: 1122px; position: absolute; background: white; outline: 1px black solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Free Shipping</div>
+            </div>
+            <div style="height: 24px; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; left: 585px; top: 1492px; position: absolute; background: white; outline: 1px black solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: black; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Free Shipping</div>
+            </div>
+            <div style="left: 277px; top: 1879px; position: absolute; justify-content: flex-start; align-items: center; gap: 96px; display: inline-flex">
+                <div style="opacity: 0.50; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Prev</div>
+                <div style="justify-content: flex-start; align-items: center; gap: 28px; display: flex">
+                    <div style="color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; text-decoration: underline; word-wrap: break-word">1</div>
+                    <div style="opacity: 0.50; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">2</div>
+                    <div style="opacity: 0.50; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">3</div>
+                    <div style="opacity: 0.50; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">4</div>
+                    <div style="opacity: 0.50; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">5</div>
+                    <div style="opacity: 0.50; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">6</div>
+                </div>
+                <div style="color: #C42424; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Next</div>
+            </div>
+        </div>
+        <div style="width: 1296px; height: 1104px; left: 0px; top: 0px; position: absolute">
+            <div style="width: 1296px; height: 66px; left: 0px; top: 176px; position: absolute; background: white">
+                <div style="left: 282px; top: 23px; position: absolute; color: #5A5A5A; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">120 Results Found...</div>
+                <div style="width: 1296px; height: 1px; left: 0px; top: 0px; position: absolute; background: #CACACA"></div>
+                <div style="width: 1296px; height: 1px; left: 0px; top: 65px; position: absolute; background: #CACACA"></div>
+                <div style="left: 0px; top: 21px; position: absolute; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+                    <div style="width: 24px; height: 24px; padding: 10px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                        <div style="width: 18px; height: 14px; background: black"></div>
+                    </div>
+                    <div style="color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Filter by</div>
+                </div>
+                <div style="left: 1012px; top: 21px; position: absolute; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                    <div style="justify-content: flex-start; align-items: center; gap: 6px; display: flex">
+                        <div style="width: 24px; height: 24px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex"></div>
+                        <div style="color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Sort by:</div>
+                    </div>
+                    <div style="justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+                        <div style="color: #B80B0B; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Featured</div>
+                        <div style="width: 24px; height: 24px; padding: 10px; transform: rotate(90deg); transform-origin: top left; justify-content: center; align-items: center; gap: 10px; display: flex">
+                            <div style="width: 6px; height: 10px; transform: rotate(-90deg); transform-origin: top left; background: #C42424"></div>
+                        </div>
+                    </div>
+                </div>
+                <div style="width: 40px; height: 40px; left: 1256px; top: 13px; position: absolute; background: black"></div>
+                <div style="width: 18px; height: 8.18px; left: 1267px; top: 24px; position: absolute; background: white"></div>
+                <div style="width: 18px; height: 8.18px; left: 1267px; top: 33.82px; position: absolute; background: white"></div>
+                <div style="width: 8.18px; height: 8.18px; left: 1267px; top: 24px; position: absolute; background: white"></div>
+                <div style="width: 8.18px; height: 8.18px; left: 1267px; top: 33.82px; position: absolute; background: white"></div>
+                <div style="width: 8.18px; height: 8.18px; left: 1276.82px; top: 24px; position: absolute; background: white"></div>
+                <div style="width: 8.18px; height: 8.18px; left: 1276.82px; top: 33.82px; position: absolute; background: white"></div>
+                <div style="width: 1px; height: 24px; left: 987px; top: 21px; position: absolute; background: #CACACA"></div>
+                <div style="width: 1px; height: 24px; left: 1231px; top: 21px; position: absolute; background: #CACACA"></div>
+                <div style="left: 845px; top: 13px; position: absolute; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                    <div style="color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Compare</div>
+                    <div data-property-1="Default" style="width: 40px; height: 40px; position: relative">
+                        <div style="width: 40px; height: 40px; left: 0px; top: 0px; position: absolute; opacity: 0; background: #D9D9D9"></div>
+                        <div style="width: 15px; height: 19px; left: 3px; top: 11px; position: absolute; opacity: 0; background: #B5B4B4; border-radius: 9.17px"></div>
+                        <div style="width: 36.67px; height: 20.87px; left: 1.67px; top: 10.23px; position: absolute; background: black"></div>
+                        <div style="width: 14.73px; height: 14.74px; left: 4.74px; top: 13.29px; position: absolute; background: black"></div>
+                    </div>
+                </div>
+            </div>
+            <div style="width: 262px; height: 834px; left: 0px; top: 270px; position: absolute">
+                <div style="width: 20px; height: 20px; padding: 10px; left: 242px; top: 0px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                    <div style="width: 14px; height: 1.04px; background: black"></div>
+                </div>
+                <div style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Lifting Capacity</div>
+                <div style="width: 20px; height: 20px; padding: 10px; left: 242px; top: 478px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                    <div style="width: 14px; height: 14px; background: black"></div>
+                </div>
+                <div style="left: 0px; top: 479px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Width between Columns</div>
+                <div style="width: 20px; height: 20px; padding: 10px; left: 242px; top: 611px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                    <div style="width: 14px; height: 14px; background: black"></div>
+                </div>
+                <div style="left: 0px; top: 602px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Lifting Height<br/>(To Flush Pad on Arm)</div>
+                <div style="width: 20px; height: 20px; padding: 10px; left: 242px; top: 744px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                    <div style="width: 14px; height: 14px; background: black"></div>
+                </div>
+                <div style="left: 0px; top: 745px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Brand</div>
+                <div style="width: 20px; height: 20px; padding: 10px; left: 242px; top: 425px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                    <div style="width: 14px; height: 14px; background: black"></div>
+                </div>
+                <div style="left: 0px; top: 426px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Drive-Thru Width</div>
+                <div style="width: 20px; height: 20px; padding: 10px; left: 242px; top: 540px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                    <div style="width: 14px; height: 14px; background: black"></div>
+                </div>
+                <div style="left: 0px; top: 531px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Max Rise Clearance<br/>(Under Arms)</div>
+                <div style="width: 20px; height: 20px; padding: 10px; left: 242px; top: 682px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                    <div style="width: 14px; height: 14px; background: black"></div>
+                </div>
+                <div style="left: 0px; top: 673px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Min. Height<br/>(Lowered Arm Height)</div>
+                <div style="width: 20px; height: 20px; padding: 10px; left: 242px; top: 797px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                    <div style="width: 14px; height: 14px; background: black"></div>
+                </div>
+                <div style="left: 0px; top: 797px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Overall Height</div>
+                <div style="width: 262px; height: 1px; left: 0px; top: 408px; position: absolute; opacity: 0.30; background: #5A5A5A"></div>
+                <div style="width: 262px; height: 1px; left: 0px; top: 514px; position: absolute; opacity: 0.30; background: #5A5A5A"></div>
+                <div style="width: 262px; height: 1px; left: 0px; top: 656px; position: absolute; opacity: 0.30; background: #5A5A5A"></div>
+                <div style="width: 262px; height: 1px; left: 0px; top: 780px; position: absolute; opacity: 0.30; background: #5A5A5A"></div>
+                <div style="width: 262px; height: 1px; left: 0px; top: 461px; position: absolute; opacity: 0.30; background: #5A5A5A"></div>
+                <div style="width: 262px; height: 1px; left: 0px; top: 585px; position: absolute; opacity: 0.30; background: #5A5A5A"></div>
+                <div style="width: 262px; height: 1px; left: 0px; top: 727px; position: absolute; opacity: 0.30; background: #5A5A5A"></div>
+                <div style="width: 262px; height: 1px; left: 0px; top: 833px; position: absolute; opacity: 0.30; background: #5A5A5A"></div>
+                <div style="width: 122px; left: 0px; top: 40px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+                    <div style="justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+                        <div style="width: 24px; height: 24px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                            <div style="width: 16px; height: 16px; background: black"></div>
+                        </div>
+                        <div style="color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">7000 Lbs</div>
+                    </div>
+                    <div style="justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+                        <div style="width: 24px; height: 24px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                            <div style="width: 16px; height: 16px; background: black"></div>
+                        </div>
+                        <div style="color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">8000 Lbs</div>
+                    </div>
+                    <div style="justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+                        <div style="width: 24px; height: 24px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                            <div style="width: 16px; height: 16px; background: black"></div>
+                        </div>
+                        <div style="color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">9000 Lbs</div>
+                    </div>
+                    <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+                        <div style="width: 24px; height: 24px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                            <div style="width: 16px; height: 16px; background: black"></div>
+                        </div>
+                        <div style="color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">10000 Lbs</div>
+                    </div>
+                    <div style="justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+                        <div style="width: 24px; height: 24px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                            <div style="width: 16px; height: 16px; background: black"></div>
+                        </div>
+                        <div style="color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">11000 Lbs</div>
+                    </div>
+                    <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+                        <div style="width: 24px; height: 24px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                            <div style="width: 16px; height: 16px; background: black"></div>
+                        </div>
+                        <div style="color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">12000 Lbs</div>
+                    </div>
+                    <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+                        <div style="width: 24px; height: 24px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                            <div style="width: 16px; height: 16px; background: black"></div>
+                        </div>
+                        <div style="color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">15000 Lbs</div>
+                    </div>
+                    <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+                        <div style="width: 24px; height: 24px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                            <div style="width: 16px; height: 16px; background: black"></div>
+                        </div>
+                        <div style="color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">16000 Lbs</div>
+                    </div>
+                    <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+                        <div style="width: 24px; height: 24px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                            <div style="width: 16px; height: 16px; background: black"></div>
+                        </div>
+                        <div style="color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">15800 Lbs</div>
+                    </div>
+                    <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+                        <div style="width: 24px; height: 24px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                            <div style="width: 16px; height: 16px; background: black"></div>
+                        </div>
+                        <div style="color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">20000 Lbs</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="width: 1440px; height: 176px; left: 0px; top: 0px; position: absolute; background: white">
+        <div style="width: 1440px; height: 28px; left: 0px; top: 148px; position: absolute; background: white"></div>
+    </div>
+    <div style="left: 72px; top: 162px; position: absolute"><span style="color: black; font-size: 12px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">Home  /  Car Lifts  /  </span><span style="color: rgba(0, 0, 0, 0.50); font-size: 12px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">2 Post Lifts</span></div>
+    <div style="left: 293px; top: 226px; position: absolute; color: black; font-size: 24px; font-family: Rajdhani; font-weight: 600; word-wrap: break-word">AMGO OHX-10</div>
+    <div style="width: 1074px; left: 293px; top: 269px; position: absolute; color: #5A5A5A; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Welcome to our premier selection of car lifts, designed to meet all your automotive lifting needs. Whether you’re a professional mechanic or an avid car enthusiast, our range of auto lifts and auto hoists ensures you have the right equipment for any job. We offer a variety of 2 post and 4 post lifts, perfect for maintenance, repairs, and vehicle storage. For those seeking versatility and efficiency, our scissor lifts provide a compact solution with robust lifting power.</div>
+    <div style="left: 293px; top: 373px; position: absolute; color: #C42424; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Read More</div>
+    <div style="width: 193px; height: 193px; left: 72px; top: 212px; position: absolute; background: linear-gradient(to bottom right, #5A5A5A 0%, #1A1A1A 50%) bottom right / 50% 50% no-repeat, linear-gradient(to bottom left, #5A5A5A 0%, #1A1A1A 50%) bottom left / 50% 50% no-repeat, linear-gradient(to top left, #5A5A5A 0%, #1A1A1A 50%) top left / 50% 50% no-repeat, linear-gradient(to top right, #5A5A5A 0%, #1A1A1A 50%) top right / 50% 50% no-repeat"></div>
+    <img style="width: 96px; height: 125px; left: 121px; top: 246px; position: absolute" src="https://placehold.co/96x125" />
+    <div style="width: 1440px; height: 727px; left: 0px; top: 3169px; position: absolute; background: #1A1A1A"></div>
+    <div style="width: 744px; height: 1px; left: 624px; top: 3495px; position: absolute; background: #5A5A5A"></div>
+    <div style="width: 1296px; height: 1px; left: 72px; top: 3686px; position: absolute; opacity: 0; background: #5A5A5A"></div>
+    <div style="width: 1296px; height: 1px; left: 72px; top: 3767px; position: absolute; background: #5A5A5A"></div>
+    <div style="left: 624px; top: 3361px; position: absolute; color: white; font-size: 24px; font-family: Rajdhani; font-weight: 600; word-wrap: break-word">Company</div>
+    <div style="left: 624px; top: 3549px; position: absolute; color: white; font-size: 24px; font-family: Rajdhani; font-weight: 600; word-wrap: break-word">Support</div>
+    <div style="width: 264px; height: 48px; padding-left: 20px; padding-right: 20px; padding-top: 12px; padding-bottom: 12px; left: 72px; top: 3582px; position: absolute; background: #2A2A2A; outline: 1px rgba(202, 202, 202, 0.30) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 546px; display: inline-flex">
+        <div style="color: white; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">Email Address</div>
+    </div>
+    <div style="width: 1440px; height: 120px; left: 0px; top: 3169px; position: absolute; background: #1A1A1A; border-bottom: 1px #5A5A5A solid"></div>
+    <div style="left: 174px; top: 3197px; position: absolute; justify-content: flex-start; align-items: center; gap: 12px; display: inline-flex">
+        <div style="width: 64px; height: 64px; padding: 10px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="width: 36px; height: 32px; background: white"></div>
+        </div>
+        <div style="width: 132px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 5px; display: inline-flex">
+            <div style="align-self: stretch; color: white; font-size: 12px; font-family: Rajdhani; font-weight: 500; word-wrap: break-word">Chat now!</div>
+            <div style="align-self: stretch; color: white; font-size: 16px; font-family: Rajdhani; font-weight: 600; word-wrap: break-word">Need help, Let’s talk</div>
+        </div>
+    </div>
+    <div style="left: 572px; top: 3197px; position: absolute; justify-content: flex-start; align-items: center; gap: 12px; display: inline-flex">
+        <div style="width: 64px; height: 64px; padding: 10px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="width: 34px; height: 24px; background: white"></div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 5px; display: inline-flex">
+            <div style="align-self: stretch; color: white; font-size: 12px; font-family: Rajdhani; font-weight: 500; word-wrap: break-word">Email us!</div>
+            <div style="align-self: stretch; color: white; font-size: 16px; font-family: Rajdhani; font-weight: 600; word-wrap: break-word">support@mechanicsupertore.com</div>
+        </div>
+    </div>
+    <div style="left: 1040px; top: 3197px; position: absolute; justify-content: flex-start; align-items: center; gap: 12px; display: inline-flex">
+        <div style="width: 64px; height: 64px; padding: 10px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="width: 34px; height: 34px; background: white"></div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 5px; display: inline-flex">
+            <div style="align-self: stretch; color: white; font-size: 12px; font-family: Rajdhani; font-weight: 500; word-wrap: break-word">Our timing</div>
+            <div style="align-self: stretch; color: white; font-size: 16px; font-family: Rajdhani; font-weight: 600; word-wrap: break-word">Mon- Fri: 7 AM - 4 PM MST<br/>Sat: 7 AM - 3 PM MST</div>
+        </div>
+    </div>
+    <img style="width: 221px; height: 100px; left: 72px; top: 3361px; position: absolute" src="https://placehold.co/221x100" />
+    <div style="width: 413px; left: 72px; top: 3497px; position: absolute; color: rgba(255, 255, 255, 0.70); font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Sign up to our newsletter to gain access to Exclusive Offers, Product Announcements, and the Latest News from Mechanic Superstore</div>
+    <div style="width: 1296px; left: 72px; top: 3796px; position: absolute; text-align: center; color: rgba(255, 255, 255, 0.70); font-size: 12px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">NO PURCHASE/DONATION NECESSARY. Ends 8/31/24. Must be: i) a legal US resident of the 50 US or DC and age of majority or ii) a legal resident of Canada (excl. Quebec) and age of majority at time of entry. Subject to Ofﬁcial Rules available at bit.ly/B5FL55E. Void where prohibited.</div>
+    <div style="left: 624px; top: 3420px; position: absolute; justify-content: flex-start; align-items: center; gap: 40px; display: inline-flex">
+        <div style="color: rgba(255, 255, 255, 0.70); font-size: 18px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">About Us</div>
+        <div style="color: rgba(255, 255, 255, 0.70); font-size: 18px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Services</div>
+        <div style="color: rgba(255, 255, 255, 0.70); font-size: 18px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Brands</div>
+        <div style="color: rgba(255, 255, 255, 0.70); font-size: 18px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Financing</div>
+        <div style="color: rgba(255, 255, 255, 0.70); font-size: 18px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Contact Us</div>
+        <div style="color: rgba(255, 255, 255, 0.70); font-size: 18px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Blogs</div>
+    </div>
+    <div style="left: 624px; top: 3608px; position: absolute; justify-content: flex-start; align-items: center; gap: 40px; display: inline-flex">
+        <div style="color: rgba(255, 255, 255, 0.70); font-size: 18px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Shipping & Delivery</div>
+        <div style="color: rgba(255, 255, 255, 0.70); font-size: 18px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Return Policy</div>
+        <div style="color: rgba(255, 255, 255, 0.70); font-size: 18px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Warranty Claims</div>
+    </div>
+    <div style="left: 72px; top: 3716px; position: absolute; color: rgba(255, 255, 255, 0.70); font-size: 18px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Cookie Policy   |   DMCA Policy   |   Privacy Policy   |   Terms & Conditions</div>
+    <div style="height: 48px; padding-left: 36px; padding-right: 36px; padding-top: 10px; padding-bottom: 10px; left: 336px; top: 3582px; position: absolute; background: white; outline: 1px white solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Subscribe</div>
+    </div>
+    <div style="width: 1px; height: 269px; left: 554px; top: 3361px; position: absolute; background: #5A5A5A"></div>
+    <div style="left: 1182px; top: 3715px; position: absolute; justify-content: flex-start; align-items: center; gap: 30px; display: inline-flex">
+        <div data-color="Negative" data-platform="LinkedIn" style="width: 24px; height: 24px; position: relative; overflow: hidden">
+            <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; background: #F0F0F0"></div>
+        </div>
+        <div data-color="Negative" data-platform="YouTube" style="width: 24px; height: 24px; position: relative; overflow: hidden">
+            <div style="width: 24px; height: 16.88px; left: 0px; top: 3.56px; position: absolute; background: #F0F0F0"></div>
+        </div>
+        <div data-color="Negative" data-platform="Facebook" style="width: 24px; height: 24px; position: relative; overflow: hidden">
+            <div style="width: 24px; height: 23.91px; left: 0px; top: 0px; position: absolute; background: #F0F0F0"></div>
+        </div>
+        <div data-color="Negative" data-platform="Instagram" style="width: 24px; height: 24px; position: relative; overflow: hidden">
+            <div style="width: 23.99px; height: 24px; left: 0px; top: 0px; position: absolute; background: #F0F0F0"></div>
+            <div style="width: 12.33px; height: 12.33px; left: 5.84px; top: 5.84px; position: absolute; background: #F0F0F0"></div>
+            <div style="width: 2.88px; height: 2.88px; left: 16.97px; top: 4.15px; position: absolute; background: #F0F0F0"></div>
+        </div>
+    </div>
+    <div style="width: 413px; left: 955px; top: 2568px; position: absolute; color: black; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Welcome to our extensive selection of 2 post car lifts at Mechanic Superstore. Perfect for both professional mechanics and dedicated car enthusiasts, our 2 post lifts provide the ultimate solution for efficient and effective vehicle maintenance and repairs. These lifts are designed to offer easy access to the undercarriage of your vehicle, making tasks like oil changes, brake repairs, and exhaust work more convenient and streamlined.</div>
+    <div style="left: 955px; top: 2506px; position: absolute; color: black; font-size: 36px; font-family: Rajdhani; font-weight: 600; word-wrap: break-word">2 Post Lifts</div>
+    <img style="width: 855px; height: 591px; left: 72px; top: 2506px; position: absolute" src="https://placehold.co/855x591" />
+    <div style="left: 1251px; top: 3073px; position: absolute; justify-content: flex-start; align-items: center; gap: 4px; display: inline-flex">
+        <div style="color: #B80B0B; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 500; word-wrap: break-word">Back to Top</div>
+        <div style="width: 24px; height: 24px; padding: 10px; transform: rotate(-90deg); transform-origin: top left; justify-content: center; align-items: center; gap: 10px; display: flex">
+            <div style="width: 6px; height: 10px; transform: rotate(-90deg); transform-origin: top left; background: #C42424"></div>
+        </div>
+    </div>
+    <div style="width: 1440px; height: 148px; left: 0px; top: 0px; position: absolute; background: #1A1A1A; border-bottom: 1px #3A3A3A solid"></div>
+    <div style="width: 24px; height: 24px; padding: 10px; left: 1344px; top: 41px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="width: 22px; height: 22px; background: white"></div>
+    </div>
+    <img style="width: 141px; height: 64px; left: 72px; top: 21px; position: absolute" src="https://placehold.co/141x64" />
+    <div style="left: 135.50px; top: 109px; position: absolute; justify-content: flex-start; align-items: center; gap: 40px; display: inline-flex">
+        <div style="color: white; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Car Lifts</div>
+        <div style="color: white; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Wheel Service</div>
+        <div style="color: white; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Alignments</div>
+        <div style="color: white; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Air Compression</div>
+        <div style="color: white; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Equipments</div>
+        <div style="color: white; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Diagnostics </div>
+        <div style="color: white; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Auto Body</div>
+        <div style="color: white; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Brands</div>
+        <div style="color: white; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Blogs</div>
+        <div data-property-1="Default" style="width: 73px; height: 19px; position: relative">
+            <div style="left: 0px; top: 0px; position: absolute; color: #FFBF00; font-size: 16px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Financing</div>
+        </div>
+    </div>
+    <div style="width: 12px; height: 8px; left: 1304px; top: 57px; position: absolute; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="width: 10px; height: 6px; background: #D9AF36"></div>
+    </div>
+    <div style="left: 1228px; top: 38px; position: absolute; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="width: 24px; height: 24px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex"></div>
+        <div style="color: white; font-size: 12px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">Hi,</div>
+        <div style="color: #D9AF36; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">Bryan</div>
+    </div>
+    <div style="left: 1077px; top: 38px; position: absolute; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="width: 24px; height: 24px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+            <div style="width: 22px; height: 22px; background: white"></div>
+        </div>
+        <div style="color: white; font-size: 12px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">Call us</div>
+        <div style="color: #D9AF36; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 400; word-wrap: break-word">866-774- 7743</div>
+    </div>
+    <div style="width: 744px; height: 48px; padding-left: 20px; padding-right: 20px; padding-top: 12px; padding-bottom: 12px; left: 285px; top: 29px; position: absolute; background: #2A2A2A; outline: 1px rgba(202, 202, 202, 0.30) solid; outline-offset: -1px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="color: white; font-size: 14px; font-family: Bricolage Grotesque; font-weight: 300; word-wrap: break-word">Search for “Car Lifts”</div>
+        <div style="width: 24px; height: 24px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+            <div style="width: 22px; height: 22px; background: white"></div>
+        </div>
+    </div>
+</div>

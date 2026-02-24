@@ -1,34 +1,35 @@
-import {redirect, useLoaderData} from 'react-router';
+import {useState} from 'react';
+import {redirect, useLoaderData, useLocation} from 'react-router';
 import type {Route} from './+types/collections.$handle';
 import {getPaginationVariables, Analytics} from '@shopify/hydrogen';
 import {PaginatedResourceSection} from '~/components/PaginatedResourceSection';
 import {redirectIfHandleIsLocalized} from '~/lib/redirect';
-import {ProductItem} from '~/components/ProductItem';
 import type {ProductItemFragment} from 'storefrontapi.generated';
+import {
+  ProductCard,
+  FilterSidebar,
+  SortBar,
+  CollectionHero,
+  Breadcrumb,
+  CategoryContent,
+  BackToTop,
+} from '~/components/plp';
 
 export const meta: Route.MetaFunction = ({data}) => {
   return [{title: `Hydrogen | ${data?.collection.title ?? ''} Collection`}];
 };
 
 export async function loader(args: Route.LoaderArgs) {
-  // Start fetching non-critical data without blocking time to first byte
   const deferredData = loadDeferredData(args);
-
-  // Await the critical data required to render initial state of the page
   const criticalData = await loadCriticalData(args);
-
   return {...deferredData, ...criticalData};
 }
 
-/**
- * Load data necessary for rendering content above the fold. This is the critical data
- * needed to render the page. If it's unavailable, the whole page should 400 or 500 error.
- */
 async function loadCriticalData({context, params, request}: Route.LoaderArgs) {
   const {handle} = params;
   const {storefront} = context;
   const paginationVariables = getPaginationVariables(request, {
-    pageBy: 8,
+    pageBy: 20,
   });
 
   if (!handle) {
@@ -38,7 +39,6 @@ async function loadCriticalData({context, params, request}: Route.LoaderArgs) {
   const [{collection}] = await Promise.all([
     storefront.query(COLLECTION_QUERY, {
       variables: {handle, ...paginationVariables},
-      // Add other queries here, so that they are loaded in parallel
     }),
   ]);
 
@@ -48,7 +48,6 @@ async function loadCriticalData({context, params, request}: Route.LoaderArgs) {
     });
   }
 
-  // The API handle might be localized, so redirect to the localized handle
   redirectIfHandleIsLocalized(request, {handle, data: collection});
 
   return {
@@ -56,34 +55,123 @@ async function loadCriticalData({context, params, request}: Route.LoaderArgs) {
   };
 }
 
-/**
- * Load data for rendering content below the fold. This data is deferred and will be
- * fetched after the initial page load. If it's unavailable, the page should still 200.
- * Make sure to not throw any errors here, as it will cause the page to 500.
- */
 function loadDeferredData({context}: Route.LoaderArgs) {
   return {};
 }
 
 export default function Collection() {
   const {collection} = useLoaderData<typeof loader>();
+  const location = useLocation();
+  
+  const [viewMode, setViewMode] = useState<'grid' | 'list'>('grid');
+  const [sortBy, setSortBy] = useState<'featured' | 'price-asc' | 'price-desc' | 'title-asc' | 'title-desc' | 'newest'>('featured');
+  const [compareEnabled, setCompareEnabled] = useState(false);
+  const [compareProducts, setCompareProducts] = useState<string[]>([]);
+  const [filters, setFilters] = useState({
+    liftingCapacity: [],
+    driveThruWidth: [],
+    widthBetweenColumns: [],
+    maxRiseClearance: [],
+    liftingHeight: [],
+    minHeight: [],
+    brand: [],
+    overallHeight: [],
+  });
+
+  const handleFilterChange = (filterType: string, values: string[]) => {
+    setFilters((prev) => ({...prev, [filterType]: values}));
+  };
+
+  const handleCompareToggle = (productId: string) => {
+    setCompareProducts((prev) =>
+      prev.includes(productId)
+        ? prev.filter((id) => id !== productId)
+        : prev.length < 4
+          ? [...prev, productId]
+          : prev
+    );
+  };
+
+  const totalProducts = collection.products.nodes.length;
 
   return (
-    <div className="collection">
-      <h1>{collection.title}</h1>
-      <p className="collection-description">{collection.description}</p>
-      <PaginatedResourceSection<ProductItemFragment>
-        connection={collection.products}
-        resourcesClassName="products-grid"
-      >
-        {({node: product, index}) => (
-          <ProductItem
-            key={product.id}
-            product={product}
-            loading={index < 8 ? 'eager' : undefined}
-          />
-        )}
-      </PaginatedResourceSection>
+    <div className="font-bricolage">
+      {/* Container */}
+      <div className="max-w-[1296px] mx-auto px-4 lg:px-[72px]">
+        {/* Breadcrumb */}
+        <Breadcrumb
+          items={[
+            {label: 'Home', href: '/'},
+            {label: 'Car Lifts', href: '/collections'},
+            {label: collection.title},
+          ]}
+        />
+
+        {/* Collection Hero */}
+        <CollectionHero
+          title={collection.title}
+          description={collection.description}
+          image={collection.image}
+        />
+
+        {/* Main Content */}
+        <div className="flex gap-5">
+          {/* Filter Sidebar - Desktop */}
+          <div className="hidden lg:block">
+            <FilterSidebar
+              filters={filters}
+              onFilterChange={handleFilterChange}
+            />
+          </div>
+
+          {/* Products Section */}
+          <div className="flex-1">
+            {/* Sort Bar */}
+            <SortBar
+              totalResults={totalProducts}
+              viewMode={viewMode}
+              onViewModeChange={setViewMode}
+              sortBy={sortBy}
+              onSortChange={setSortBy}
+              compareEnabled={compareEnabled}
+              onCompareToggle={setCompareEnabled}
+            />
+
+            {/* Products Grid */}
+            <PaginatedResourceSection<ProductItemFragment>
+              connection={collection.products}
+              resourcesClassName={
+                viewMode === 'grid'
+                  ? 'grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 py-6'
+                  : 'flex flex-col gap-4 py-6'
+              }
+            >
+              {({node: product, index}) => (
+                <ProductCard
+                  key={product.id}
+                  product={product}
+                  showCompare={compareEnabled}
+                  isCompareSelected={compareProducts.includes(product.id)}
+                  onCompareToggle={handleCompareToggle}
+                />
+              )}
+            </PaginatedResourceSection>
+
+            {/* Back to Top */}
+            <div className="flex justify-end py-4">
+              <BackToTop />
+            </div>
+          </div>
+        </div>
+
+        {/* Category Content Section */}
+        <CategoryContent
+          title={collection.title}
+          description={collection.description || 'Explore our collection of high-quality products designed to meet your needs.'}
+          image={collection.image}
+        />
+      </div>
+
       <Analytics.CollectionView
         data={{
           collection: {
@@ -105,6 +193,7 @@ const PRODUCT_ITEM_FRAGMENT = `#graphql
     id
     handle
     title
+    vendor
     featuredImage {
       id
       altText
@@ -113,6 +202,14 @@ const PRODUCT_ITEM_FRAGMENT = `#graphql
       height
     }
     priceRange {
+      minVariantPrice {
+        ...MoneyProductItem
+      }
+      maxVariantPrice {
+        ...MoneyProductItem
+      }
+    }
+    compareAtPriceRange {
       minVariantPrice {
         ...MoneyProductItem
       }
@@ -140,6 +237,13 @@ const COLLECTION_QUERY = `#graphql
       handle
       title
       description
+      image {
+        id
+        url
+        altText
+        width
+        height
+      }
       products(
         first: $first,
         last: $last,
